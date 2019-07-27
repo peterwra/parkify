@@ -1,0 +1,34 @@
+.preview-item {
+    text-align: justify;
+}
+
+.preview-span {
+    display: inline-block;
+}
+
+ul{
+    padding:20px;
+}
+ul p{
+    margin: 10px;
+}
+
+
+/* .box2{
+    background-color: red;
+} */
+
+/* "Link to the park page" white */
+h1{
+    font-size: 25px;
+}
+
+.img-holder, img {
+    margin-right: 10px;
+    float: left;
+    width: 100px;
+}
+
+.clearfix {
+    overflow: auto;
+}

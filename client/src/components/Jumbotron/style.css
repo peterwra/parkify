@@ -1,0 +1,18 @@
+.jumbotron{
+    background-color: green;
+    border: solid black 5px;
+}
+
+.button{
+    border: solid 10px;
+    background-color: black;
+}
+
+.btn{
+    font-weight: bolder;
+}
+
+h1{
+    font-weight: bolder;
+    font-size: larger;
+}
